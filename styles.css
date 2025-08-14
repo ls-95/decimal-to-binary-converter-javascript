@@ -43,6 +43,10 @@ h2 {
   width: clamp(320px, 50vw, 460px);
 }
 
+.input-container label {
+  white-space: nowrap;
+}
+
 .convert-btn {
   font-size: inherit;
   font-family: inherit;
